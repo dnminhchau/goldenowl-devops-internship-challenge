@@ -5,7 +5,7 @@
 - GitHub Repository: https://github.com/dnminhchau/goldenowl-devops-internship-challenge
 - DockerHub Repository: https://hub.docker.com/r/cdoan0072/goldenowl-devops-internship-challenge
 - Live Application: http://goldenowl-alb-569630106.ap-southeast-2.elb.amazonaws.com
-- Docker Image Size: 83 MB
+- Docker Image Size: 83.1 MB
 
 ## Architecture
 
